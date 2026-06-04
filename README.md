@@ -1,4 +1,4 @@
-# Hi, I'm Arjav Tripathi 👋
+# Hi, I'm Arjava Tripathi, but I go by AJ 👋
 
 I'm a Computer Science undergraduate passionate about building full-stack applications with clean architecture and real-world utility. I'm currently seeking **software engineering internships and full-time junior roles**.
 
