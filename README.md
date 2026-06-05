@@ -34,7 +34,7 @@ A full-stack URL shortener with a production-grade backend and a modern React fr
 
 ---
 
-### 🌍 GeoHunt — Localized GeoGuessr
+### GeoHunt — Localized GeoGuessr
 A real-world location guessing game where users are shown a photo of a nearby place and must physically travel there to verify their guess with a photo.
 
 - **Tech:** Java · Spring Boot (Backend)
@@ -43,7 +43,7 @@ A real-world location guessing game where users are shown a photo of a nearby pl
 
 ---
 
-### 📝 UNote — Collaborative Note Platform
+### UNote — Collaborative Note Platform
 A shared note-taking and note-sharing platform built for real-time collaboration.
 
 - **Tech:** Java · Spring Boot (Backend)
