@@ -51,6 +51,14 @@ A shared note-taking and note-sharing platform built for real-time collaboration
 
 ---
 
+### Folio - Github Profile Analyser
+A Github Profile showcase page with a built in repository scoring algorithm
+
+- **Tech:** Python · FastAPI · SQLAlchemy · Vite · PostgreSQL
+- [Code](https://github.com/ArjavTripathi/Github-Analyser)
+
+---
+
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://arjavatripathi.me/Portfolio/)
